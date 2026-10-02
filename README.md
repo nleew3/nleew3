@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Game Jams
+![Static Badge](https://img.shields.io/badge/LSI_x_UU-Game_Jam-blue?style=for-the-badge)
